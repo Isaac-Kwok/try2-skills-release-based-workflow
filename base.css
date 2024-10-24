@@ -106,6 +106,7 @@ section {
   display: block;
 }
 body {
+   /* Try #4 */
     background-color: black;
 }
 ol,
